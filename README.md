@@ -85,11 +85,12 @@ I paired this with **MediaPipe on the frontend** — using it to overlay nail de
 
 ### 🧪 Future Work
 
-- Expand the dataset for broader color, texture, and lighting diversity  
-- Fine-tune CLIP embeddings for domain-specific retrieval  
-- Incorporate user feedback loops for iterative improvement  
-- Explore **diffusion models** or **GANs** for generative nail design  
-- Extend to multimodal search (e.g., text-to-nail-style)
+- Expand the dataset to improve diversity in **color, texture, and lighting conditions**  
+- Experiment with **training a custom CV model** for nail detection and segmentation  
+- Fine-tune CLIP embeddings or other **representation learning models** for domain-specific retrieval  
+- Explore **generative CV models** (e.g., diffusion models or GANs) for automatic nail design synthesis  
+- Extend the system to **multimodal search** (e.g., text-to-nail-style or style transfer)
+
 
 ---
 
