@@ -1,4 +1,4 @@
-# 💅 Nail Recommender — A CLIP-Based Visual Similarity System
+# 💅 Nail Recommender — Visual Search with CLIP
 
 ### 🧠 Overview
 This project investigates how **multimodal embeddings** can be used for **visual similarity and recommendation tasks**, using **nail designs** as the application domain. 
@@ -122,7 +122,7 @@ I paired this with **MediaPipe on the frontend** — using it to overlay nail de
 ### 👩🏽‍💻 Author
 
 **[Sanmi Areoye](https://github.com/Sanmiareoye)**  
-Aspiring Computer Vision Researcher | Representation Learning & Generative Models  
+Aspiring Computer Vision Engineer | Representation Learning & Generative Models  
 
 This project was developed as part of my preparation for graduate research applications at **MBZUAI**.
 
