@@ -44,8 +44,6 @@ async def search_similar_nails(request: Request, file: UploadFile):
             }
             for r in results
         ]
-        print(enhanced_results)
-        print("UELLLLLL:", url)
 
         return JSONResponse(
             content={
