@@ -6,6 +6,7 @@ import { useEffect, useRef, useState } from "react";
 import { HandLandmarker, FilesetResolver } from "@mediapipe/tasks-vision";
 import styles from "../styles/LiveMode.module.css";
 
+// Testing monrepo abilities.
 export default function LiveMode() {
   const [capturedImage, setCapturedImage] = useState(null);
   const [results, setResults] = useState([]);
