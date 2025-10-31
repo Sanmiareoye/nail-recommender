@@ -3,7 +3,7 @@
 ### 🧠 Overview
 This project investigates how **multimodal embeddings** can be used for **visual similarity and recommendation tasks**, using **nail designs** as the application domain. 
 
-It integrates **computer vision**, **representation learning**, and **interactive hand tracking** to create a lightweight end-to-end recommendation prototype.
+It integrates **computer vision**, **representation learning**, and **interactive hand tracking** to create a lightweight end-to-end recommendation prototype in less than 3 weeks.
 
 Users can:
 - Upload or select an image of nail art  
