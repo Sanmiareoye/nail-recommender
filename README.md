@@ -1,5 +1,7 @@
 # 💅 Nail Recommender — Visual Search with CLIP
 
+**Try it out, Live demo:** [nail-recommender.vercel.app](https://nail-recommender.vercel.app/) 
+
 ### 🧠 Overview
 This project investigates how **multimodal embeddings** can be used for **visual similarity and recommendation tasks**, using **nail designs** as the application domain. 
 
